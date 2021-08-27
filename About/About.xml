@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>No Mods! See?</name>
+	<author>1trickPonyta</author>
+	<packageId>nomodssee.1trickPonyta</packageId>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<description>
+Hides all your mods on the loading screen so you can pretend you're playing without mods and nobody will know... unless your mods make obvious changes to the game that give themselves away, which most mods do, I guess.
+	</description>
+	<url>https://github.com/1trickPonyta/NoModsSee</url>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+	</modDependencies>
+</ModMetaData>
